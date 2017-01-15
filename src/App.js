@@ -36,7 +36,7 @@ class App extends Component {
     console.log(moviePosters);
     return (
       <div className="App">
-        <div>
+        <div> YOYO
           {moviePosters}
         </div>
       </div>
